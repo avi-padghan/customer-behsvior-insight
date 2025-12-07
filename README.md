@@ -1,5 +1,4 @@
-
-# Sales & Profit Data Analytics Project
+# Customer Bahevior Data Analytics Project
 
 ## 📌 Overview
 
